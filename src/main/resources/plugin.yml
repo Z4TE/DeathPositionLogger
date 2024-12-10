@@ -1,0 +1,4 @@
+name: DeathPositionLogger
+version: '1.0'
+main: org.z4te.deathPositionLogger.DeathPositionLogger
+api-version: '1.21'
