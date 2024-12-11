@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-public final class DeathPositionLogger extends JavaPlugin implements Listener {
+public final class Main extends JavaPlugin implements Listener {
 
     private final HashMap<UUID, HashMap<Location, World.Environment>> outerMap = new HashMap<>();
 
