@@ -2,3 +2,6 @@ name: DeathPositionLogger
 version: '1.0'
 main: org.z4te.deathPositionLogger.Main
 api-version: '1.21'
+commands:
+  recovery:
+    description: Prints your last death location.
